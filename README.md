@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 CSE student focused on **Software Development, AI/ML, and Problem Solving**
-- 🔭 Here's my [Portfolio](https://nebula-nav-showcase.lovable.app](https://nagoor-personal-portfolio.vercel.app/)
+- 🔭 Here's my [Portfolio](https://nagoor-personal-portfolio.vercel.app/)
 - 🌱 Currently learning **DSA, Web Development, and Machine Learning**
 - 💻 Passionate about **Full Stack Web Development, MERN, UI/UX Design, and Real-World Projects**
 - 🚀 I build projects and solve problems to grow every single day
