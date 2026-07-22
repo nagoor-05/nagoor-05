@@ -15,12 +15,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE student focused on **Software Development, AI/ML, and Problem Solving**
+- 🎓 CSE student focused on **Software Development, Automation using Agentic AI, and Problem Solving**
 - 🔭 Here's my [Portfolio](https://nagoor-personal-portfolio.vercel.app/)
-- 🌱 Currently learning **DSA, Web Development, and Machine Learning**
-- 💻 Passionate about **Full Stack Web Development, MERN, UI/UX Design, and Real-World Projects**
+- 🌱 Currently learning **DSA, Agentic AI, and Machine Learning**
+- 💻 Passionate about **Full Stack Web Development, MERN, UI/UX Design, Agentic AI and Real-World Projects**
 - 🚀 I build projects and solve problems to grow every single day
-- ⚡ Fun fact: I know Japanese
 
 ---
 
