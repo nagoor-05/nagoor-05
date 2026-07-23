@@ -164,6 +164,26 @@ Premium interactive portfolio showcasing projects, technical skills, education, 
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nagoor-05/nagoor-05/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nagoor-05/nagoor-05/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/nagoor-05/nagoor-05/output/github-contribution-grid-snake.svg"
+      alt="Nagoor GitHub contribution snake animation"
+    />
+  </picture>
+</p>
+
+---
 ## 🧠 Coding Profile
 
 <div align="center">
