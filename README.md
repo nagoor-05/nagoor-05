@@ -238,7 +238,7 @@ Premium interactive portfolio showcasing projects, technical skills, education, 
 
 <div align="center">
 
-<a href="YOUR_RESUME_GOOGLE_DRIVE_LINK">
+<a href="https://drive.google.com/file/d/1gOsc5mbif6fA2-ESQ4FQLHF-DD2FgGJi/view?usp=drive_link">
   <img src="https://img.shields.io/badge/Download%20My%20Resume-7B2FF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
 </a>
 
