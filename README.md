@@ -6,6 +6,8 @@
     and full-stack applications that solve real-world problems.
 -->
 
+<a id="top"></a>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7B2FF7,100:F107A3&height=180&section=header&text=Mohammed%20Nagoor%20Meerasha&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header"/>
 
 <div align="center">
@@ -43,56 +45,50 @@
 
 ---
 
+## 💭 Developer Quote
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Developer Quote"
+  />
+</p>
+
+---
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#skills">Tech Stack</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#statistics">Statistics</a> •
+  <a href="#leetcode">LeetCode</a> •
+  <a href="#resume">Resume</a> •
+  <a href="#contact">Contact</a>
+</p>
+
+---
+
+<a id="about"></a>
+
 ## 👨‍💻 About Me
 
 <img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Developer Animation"/>
 
 I am a final-year **Computer Science and Engineering student** at **PSG Institute of Technology and Applied Research**, Coimbatore.
 
-I am passionate about building practical applications using **full-stack development, artificial intelligence, machine learning, automation, and agentic AI**.
+I am passionate about building practical applications using **full-stack development, artificial intelligence, machine learning, automation and agentic AI**.
 
-My projects focus on solving real-world problems in areas such as financial reconciliation, healthcare, education, productivity, restaurant management, real estate, career development, and intelligent personal assistance.
+My projects focus on solving real-world problems in financial technology, healthcare, education, productivity, real estate, career development and intelligent automation.
 
 - 🎓 Final-year Computer Science and Engineering student
 - 💻 Aspiring Software Engineer and Full-Stack Developer
 - 🤖 Interested in AI, ML, Agentic AI and intelligent automation
-- 🌱 Currently strengthening DSA, Java, Python and system fundamentals
-- 🚀 Building production-oriented, real-world software projects
-- 🎯 Preparing for software engineering and product-based company roles
+- 🌱 Strengthening DSA, Java, Python and system fundamentals
+- 🚀 Building production-oriented software projects
+- 🎯 Preparing for software engineering roles
 - 🌐 Explore my [Personal Portfolio](https://nagoor-personal-portfolio.vercel.app/)
 
 <br clear="right"/>
-
----
-
-## 👀 Recruiter Quick View
-
-<table>
-  <tr>
-    <td><strong>Target Role</strong></td>
-    <td>Software Engineer / Full-Stack Developer</td>
-  </tr>
-  <tr>
-    <td><strong>Primary Languages</strong></td>
-    <td>Java, Python, JavaScript and C++</td>
-  </tr>
-  <tr>
-    <td><strong>Primary Stack</strong></td>
-    <td>React, Node.js, Express, MongoDB and MySQL</td>
-  </tr>
-  <tr>
-    <td><strong>AI Interests</strong></td>
-    <td>Machine Learning, Generative AI, Agentic AI and Automation</td>
-  </tr>
-  <tr>
-    <td><strong>Education</strong></td>
-    <td>Final-year Computer Science and Engineering student</td>
-  </tr>
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Coimbatore, Tamil Nadu, India</td>
-  </tr>
-</table>
 
 ---
 
@@ -108,56 +104,23 @@ My projects focus on solving real-world problems in areas such as financial reco
 <p align="center">
   <img src="https://img.shields.io/badge/Current%20Focus-Agentic%20AI-F107A3?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/Learning-DSA%20%26%20System%20Design-00C9FF?style=for-the-badge" alt="Learning"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22C55E?style=for-the-badge" alt="Collaboration"/>
-</p>
-
----
-
-## 💼 Professional Status
-
-<p align="center">
   <img src="https://img.shields.io/badge/Available%20for-Software%20Engineering%20Roles-22C55E?style=for-the-badge" alt="Available for Roles"/>
-  <img src="https://img.shields.io/badge/Interested%20in-Full--Stack%20%26%20AI-7B2FF7?style=for-the-badge" alt="Interests"/>
-  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-00C9FF?style=for-the-badge" alt="Location"/>
 </p>
 
 ---
 
 ## 🎯 What I’m Focused On
 
-- **Software Development** — developing scalable, maintainable and user-focused applications.
-- **Agentic AI and Automation** — creating AI agents that understand tasks, make decisions and assist users across workflows.
-- **Full-Stack Development** — building modern interfaces, APIs, authentication systems and database-driven platforms.
-- **Artificial Intelligence and Machine Learning** — applying intelligent models to healthcare, finance, education and productivity.
-- **Data Structures and Algorithms** — improving problem-solving skills using Java and C++.
-- **Backend Development** — designing APIs, databases, authentication flows and role-based systems.
-- **Cybersecurity** — exploring security-focused tools and practical defensive applications.
+- **Software Engineering** — building maintainable and user-focused applications.
+- **Agentic AI and Automation** — creating intelligent systems that assist real-world workflows.
+- **Full-Stack Development** — developing interfaces, APIs, authentication and databases.
+- **Machine Learning** — applying AI to finance, healthcare, education and productivity.
+- **DSA and System Design** — preparing for software engineering interviews.
+- **Cybersecurity** — exploring practical security and defensive applications.
 
 ---
 
-## 🧩 Core Strengths
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <strong>💻 Software Engineering</strong>
-      <br/><br/>
-      Building maintainable, modular and user-focused applications.
-    </td>
-    <td align="center" width="33%">
-      <strong>🤖 AI & Automation</strong>
-      <br/><br/>
-      Creating intelligent systems that automate practical workflows.
-    </td>
-    <td align="center" width="33%">
-      <strong>🌐 Full-Stack Development</strong>
-      <br/><br/>
-      Developing modern interfaces, APIs and database-driven systems.
-    </td>
-  </tr>
-</table>
-
----
+<a id="skills"></a>
 
 ## 🛠️ Tech Stack
 
@@ -185,7 +148,7 @@ My projects focus on solving real-world problems in areas such as financial reco
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Databases and Services
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -219,135 +182,48 @@ My projects focus on solving real-world problems in areas such as financial reco
 
 ---
 
+<a id="projects"></a>
+
 ## 🔗 Projects
 
 **[ReconIQ — AI Financial Reconciliation and Fraud Detection](YOUR_RECONIQ_REPOSITORY_LINK)** — *React, Node.js, Express, MongoDB, Python, OCR, AI/ML*  
-AI-powered financial verification platform for bank-statement reconciliation, fraud detection, suspicious transaction identification and verification reporting.
+AI-powered financial verification platform for reconciliation, fraud detection and suspicious-transaction analysis.
 
 **[AI Meeting-to-Execution Agent](YOUR_MEETING_AGENT_REPOSITORY_LINK)** — *React, Node.js, Python, NLP, Generative AI*  
-Intelligent meeting assistant that converts discussions into summaries, decisions, action items, assigned tasks and deadlines.
+Intelligent assistant that converts meeting discussions into summaries, decisions, tasks and deadlines.
 
-**[MindCare — AI Mental Wellness Support Platform](YOUR_MINDCARE_REPOSITORY_LINK)** — *Python, Flask, MySQL, AI-based Assessment*  
-Mental-wellness application that evaluates user responses and provides personalised activities, progress tracking and relaxation support.
+**[MindCare — AI Mental Wellness Support Platform](YOUR_MINDCARE_REPOSITORY_LINK)** — *Python, Flask, MySQL, AI Assessment*  
+Mental-wellness platform providing assessments, personalised activities and progress tracking.
 
 **[AI House Price Prediction and Real Estate Intelligence](YOUR_HOUSE_PRICE_REPOSITORY_LINK)** — *Python, Scikit-learn, React, Flask*  
-Machine-learning platform that predicts property prices and presents useful real-estate insights based on property features.
+Machine-learning platform for predicting property prices and providing real-estate insights.
 
 **[Mohammed Nagoor Meerasha — Premium Personal Portfolio](https://nagoor-personal-portfolio.vercel.app/)** — *React, Vite, Framer Motion, Three.js*  
-Premium interactive portfolio showcasing projects, technical skills, education, achievements and an AI-powered portfolio assistant.
-
----
-
-## 🌟 Selected Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 ReconIQ</h3>
-      <p>
-        AI-powered financial reconciliation and fraud-detection platform
-        for analysing bank statements and suspicious transactions.
-      </p>
-      <p>
-        <strong>Stack:</strong> React, Node.js, MongoDB, Python and OCR
-      </p>
-      <a href="YOUR_RECONIQ_REPOSITORY_LINK">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ReconIQ Repository"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤝 Meeting-to-Execution Agent</h3>
-      <p>
-        AI assistant that transforms meeting discussions into summaries,
-        decisions, tasks, ownership and deadlines.
-      </p>
-      <p>
-        <strong>Stack:</strong> React, Node.js, Python and NLP
-      </p>
-      <a href="YOUR_MEETING_AGENT_REPOSITORY_LINK">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meeting Agent Repository"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Project Journey
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Completed-6%20Projects-22C55E?style=for-the-badge" alt="Completed Projects"/>
-  <img src="https://img.shields.io/badge/In%20Progress-3%20Projects-F59E0B?style=for-the-badge" alt="Projects in Progress"/>
-  <img src="https://img.shields.io/badge/Upcoming-5%20Projects-7B2FF7?style=for-the-badge" alt="Upcoming Projects"/>
-</p>
-
----
-
-## 📌 Project Status
-
-| Status | Projects |
-|---|---|
-| ✅ Completed | Smart Symbol Table Analyzer, AI Timetable Generation System, AI Meeting-to-Execution Agent, MindCare, ReconIQ, MediClaim AI |
-| 🚧 In Progress | QuickDine, AI House Price Prediction, Premium Personal Portfolio |
-| 🔮 Upcoming | NOVA, AI ATS Resume Checker, AI Portfolio Builder, PrepIQ AI, BreachChecker |
-
----
-
-## 📊 Developer Overview
-
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagoor-05&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagoor-05&theme=tokyonight"
-    alt="Repositories Per Language"
-  />
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagoor-05&theme=tokyonight"
-    alt="Most Commit Language"
-  />
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nagoor-05&theme=tokyonight&utcOffset=5.5"
-    alt="Productive Time"
-  />
-</p>
+Interactive portfolio showcasing projects, technical skills, achievements and an AI-powered assistant.
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com/?user=nagoor-05&theme=tokyonight&hide_border=true&ring=7B2FF7&fire=F107A3&currStreakLabel=00C9FF"
-  alt="GitHub Streak"
-/>
-
-</div>
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=nagoor-05&theme=tokyonight&hide_border=true&ring=7B2FF7&fire=F107A3&currStreakLabel=00C9FF"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nagoor-05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9FF&line=7B2FF7&point=F107A3&area=true"
-  alt="Contribution Graph"
-/>
-
-</div>
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nagoor-05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9FF&line=7B2FF7&point=F107A3&area=true"
+    alt="Contribution Graph"
+  />
+</p>
 
 ---
 
@@ -372,18 +248,18 @@ Premium interactive portfolio showcasing projects, technical skills, education, 
 
 ---
 
+<a id="leetcode"></a>
+
 ## 🧠 Coding Profile
 
-<div align="center">
-
-<a href="https://leetcode.com/u/Nagoor_05/" target="_blank">
-  <img
-    src="https://leetcard.jacoblin.cool/Nagoor_05?theme=dark&font=Montserrat&ext=heatmap"
-    alt="LeetCode Statistics"
-  />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://leetcode.com/u/Nagoor_05/" target="_blank">
+    <img
+      src="https://leetcard.jacoblin.cool/Nagoor_05?theme=dark&font=Montserrat&ext=heatmap"
+      alt="LeetCode Statistics"
+    />
+  </a>
+</p>
 
 ---
 
@@ -431,18 +307,6 @@ Premium interactive portfolio showcasing projects, technical skills, education, 
 
 ---
 
-## 📍 Development Roadmap
-
-<p align="center">
-  <img src="https://img.shields.io/badge/01-Learn-00C9FF?style=for-the-badge" alt="Learn"/>
-  <img src="https://img.shields.io/badge/02-Build-7B2FF7?style=for-the-badge" alt="Build"/>
-  <img src="https://img.shields.io/badge/03-Test-F107A3?style=for-the-badge" alt="Test"/>
-  <img src="https://img.shields.io/badge/04-Deploy-22C55E?style=for-the-badge" alt="Deploy"/>
-  <img src="https://img.shields.io/badge/05-Improve-F59E0B?style=for-the-badge" alt="Improve"/>
-</p>
-
----
-
 ## 🧠 Development Philosophy
 
 <div align="center">
@@ -450,25 +314,6 @@ Premium interactive portfolio showcasing projects, technical skills, education, 
 > Understand the problem clearly, design the workflow carefully, build the smallest working solution, test every critical path and improve it continuously.
 
 </div>
-
----
-
-## 🤝 Collaboration Interests
-
-<table align="center">
-  <tr>
-    <td>✅ Full-stack web applications</td>
-    <td>✅ AI and machine-learning systems</td>
-  </tr>
-  <tr>
-    <td>✅ Agentic AI and automation</td>
-    <td>✅ Open-source student projects</td>
-  </tr>
-  <tr>
-    <td>✅ Healthcare and FinTech solutions</td>
-    <td>✅ Cybersecurity tools</td>
-  </tr>
-</table>
 
 ---
 
@@ -490,8 +335,7 @@ Premium interactive portfolio showcasing projects, technical skills, education, 
 
   <br/>
 
-  To begin my career as a software engineer and contribute to practical,
-  scalable and intelligent software products.
+  To begin my career as a software engineer and contribute to practical, scalable and intelligent software products.
 
 </details>
 
@@ -510,22 +354,9 @@ Premium interactive portfolio showcasing projects, technical skills, education, 
 
 </details>
 
-<details>
-  <summary><strong>🚀 Project Interests</strong></summary>
-
-  <br/>
-
-  - Financial technology
-  - Healthcare technology
-  - Educational technology
-  - Intelligent automation
-  - Productivity systems
-  - Real-estate intelligence
-  - Career-development platforms
-
-</details>
-
 ---
+
+<a id="contact"></a>
 
 ## 🌐 Connect With Me
 
@@ -563,70 +394,30 @@ Premium interactive portfolio showcasing projects, technical skills, education, 
 
 ---
 
-## 📬 Contact Information
-
-<div align="center">
-
-| Contact | Details |
-|---|---|
-| 📧 Email | [nagoormeerasha739@gmail.com](mailto:nagoormeerasha739@gmail.com) |
-| 💼 LinkedIn | [Mohammed Nagoor Meerasha S.](https://www.linkedin.com/in/mohammed-nagoor-meerasha-s-1207ab376/) |
-| 🌐 Portfolio | [nagoor-personal-portfolio.vercel.app](https://nagoor-personal-portfolio.vercel.app/) |
-| 💻 GitHub | [github.com/nagoor-05](https://github.com/nagoor-05) |
-| 📍 Location | Coimbatore, Tamil Nadu, India |
-
-</div>
-
----
+<a id="resume"></a>
 
 ## 📄 Resume
 
 > [!IMPORTANT]
 > View or download my latest resume.
 
-<div align="center">
-
-<a href="https://drive.google.com/file/d/1gOsc5mbif6fA2-ESQ4FQLHF-DD2FgGJi/view?usp=drive_link" target="_blank">
-  <img
-    src="https://img.shields.io/badge/View%20My%20Resume-7B2FF7?style=for-the-badge&logo=googledrive&logoColor=white"
-    alt="View Resume"
-  />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1gOsc5mbif6fA2-ESQ4FQLHF-DD2FgGJi/view?usp=drive_link" target="_blank">
+    <img
+      src="https://img.shields.io/badge/View%20My%20Resume-7B2FF7?style=for-the-badge&logo=googledrive&logoColor=white"
+      alt="View Resume"
+    />
+  </a>
+</p>
 
 ---
 
 ## 💻 Workspace
 
-<div align="center">
-
-<img
-  src="https://img.shields.io/badge/NVIDIA-GTX%201650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"
-  alt="NVIDIA GTX 1650"
-/>
-
-<img
-  src="https://img.shields.io/badge/AMD-Ryzen%205%204600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"
-  alt="AMD Ryzen 5 4600H"
-/>
-
-<img
-  src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
-  alt="Visual Studio Code"
-/>
-
-</div>
-
----
-
-## 💭 Developer Quote
-
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-    alt="Developer Quote"
-  />
+  <img src="https://img.shields.io/badge/NVIDIA-GTX%201650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX 1650"/>
+  <img src="https://img.shields.io/badge/AMD-Ryzen%205%204600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Ryzen 5 4600H"/>
+  <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
 ---
@@ -635,24 +426,16 @@ Premium interactive portfolio showcasing projects, technical skills, education, 
 
 <div align="center">
 
-I am interested in collaborating on projects involving:
-
 **Full-Stack Development • Artificial Intelligence • Agentic AI • Automation • Machine Learning • Cybersecurity**
 
-<br/>
+<br/><br/>
 
 <a href="mailto:nagoormeerasha739@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Start%20a%20Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Start a Conversation"
-  />
+  <img src="https://img.shields.io/badge/Start%20a%20Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a Conversation"/>
 </a>
 
 <a href="https://nagoor-personal-portfolio.vercel.app/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Explore%20My%20Work-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Explore My Work"
-  />
+  <img src="https://img.shields.io/badge/Explore%20My%20Work-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Work"/>
 </a>
 
 </div>
@@ -666,13 +449,6 @@ I am interested in collaborating on projects involving:
 **Building intelligent software solutions, one project at a time.**
 
 <br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=nagoor-05&label=Total%20Profile%20Visitors&color=7B2FF7&style=for-the-badge"
-  alt="Total Profile Visitors"
-/>
-
-<br/><br/>
 
 <img
   src="https://img.shields.io/badge/Thank%20You%20for%20Visiting-My%20GitHub%20Profile-00C9FF?style=for-the-badge"
